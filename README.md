@@ -1,5 +1,5 @@
- Data Analytics Project – Data Cleaning & Preprocessing
-📌 Project Overview
+# Data Analytics Project – Data Cleaning & Preprocessing
+###📌 Project Overview
 
 This project focuses on data cleaning and preprocessing using Python.
 The main objective was to transform raw and inconsistent data into a clean, structured, and analysis-ready dataset that can be used for further analytics, visualization, and business intelligence tasks.
@@ -16,7 +16,7 @@ Working with real-world datasets using Python libraries
 
 This project is part of my journey in becoming a professional Data Analyst and improving my data manipulation skills with Python.
 
-🚀 Technologies Used
+### 🚀 Technologies Used
 Python
 Pandas
 NumPy
@@ -50,7 +50,7 @@ Standardized categorical variables
 ✅ Outlier Handling
 Detected anomalies and extreme values
 Applied suitable preprocessing methods
-📈 Project Goals
+### 📈 Project Goals
 
 The main goals of this project were:
 
@@ -60,7 +60,7 @@ Practice real-world data preprocessing workflows
 Build a strong foundation in data analytics
  Results
 
-After preprocessing:
+### After preprocessing:
 
 The dataset became cleaner and more reliable
 Missing and inconsistent data issues were resolved
@@ -71,7 +71,7 @@ Machine learning models
 Business analysis
 💡 Skills Demonstrated
 
-This project highlights skills in:
+### This project highlights skills in:
 
 Data Cleaning
 Data Preprocessing
@@ -90,13 +90,13 @@ pip install pandas numpy jupyter
 jupyter notebook
 📌 Future Improvements
 
-Possible future enhancements:
+### Possible future enhancements:
 
 Add advanced visualizations
 Perform full Exploratory Data Analysis (EDA)
 Build machine learning models
 Create interactive dashboards using Power BI
-👨‍💻 Author
+### 👨‍💻 Author
 
 Farid Oumnay
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
