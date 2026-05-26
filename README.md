@@ -81,7 +81,7 @@ Problem Solving
 Data Manipulation with Pandas
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/Faridoumnay/Decodelabs-Internshipt-project-1-.git
+git clone https://github.com/Faridoumnay/Decodelabs-Internship-project-1-.git
 2️⃣ Navigate to the project folder
 cd Data-Cleaning-Project
 3️⃣ Install required libraries
