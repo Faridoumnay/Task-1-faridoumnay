@@ -1,5 +1,5 @@
 # Data Analytics Project – Data Cleaning & Preprocessing
-###📌 Project Overview
+### 📌 Project Overview
 
 This project focuses on data cleaning and preprocessing using Python.
 The main objective was to transform raw and inconsistent data into a clean, structured, and analysis-ready dataset that can be used for further analytics, visualization, and business intelligence tasks.
